@@ -3,5 +3,5 @@ scikit-learn
 pandas
 numpy 
 seaborn
-maptlotlib
+matplotlib
 gunicorn
