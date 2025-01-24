@@ -1,7 +1,7 @@
 Flask
 scikit-learn
 pandas
-numpy 
+numpy==1.23.0
 seaborn
 matplotlib
 gunicorn
